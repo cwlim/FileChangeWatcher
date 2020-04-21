@@ -1,0 +1,15 @@
+{
+  "name": "watchfilechange",
+  "version": "1.0.0",
+  "description": "A demo on file change watcher",
+  "main": "index.js",
+  "scripts": {
+    "watch": "node ./bin/watcher.js"
+  },
+  "author": "Chengwei Lim",
+  "license": "ISC",
+  "devDependencies": {
+    "chalk": "^4.0.0",
+    "node-watch": "^0.6.3"
+  }
+}
